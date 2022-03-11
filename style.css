@@ -61,23 +61,4 @@ body {
         font-size: 10px;
     }
 }
-@media (min-width: 481px) and (max-width: 768px) {
-    body{
-        justify-content: center;
-        text-align: center;
-    }
-    #header{
-        font-size: 25px;
-    }
-    #search{
-        margin-top: 50px;
-        width: 350px;
-        height: 35px;
-        border-radius: 10px;
-        outline: none;
-    }
-    #btn{
-        padding: 8px; 
-        font-size: 13px;
-    }
-}
+
